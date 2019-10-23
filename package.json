@@ -1,0 +1,11 @@
+{
+  "name": "InterNationsCodeKriege",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chweeks/InterNationsCodeKriege.git",
+  "author": "Chris Weeks <chris.weeks@internations.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
